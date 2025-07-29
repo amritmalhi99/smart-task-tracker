@@ -54,7 +54,7 @@ smart-task-tracker/
 
 ## 🧪 How to Run Locally
 
-### 1. Clone this repo
+Clone this repo
 
 ```bash
 git clone https://github.com/amritmalhi99/smart-task-tracker.git
